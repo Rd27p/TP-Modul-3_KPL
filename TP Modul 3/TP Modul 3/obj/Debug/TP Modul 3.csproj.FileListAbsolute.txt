@@ -1,0 +1,10 @@
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\bin\Debug\TP Modul 3.exe.config
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\bin\Debug\TP Modul 3.exe
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\bin\Debug\TP Modul 3.pdb
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP Modul 3.csproj.AssemblyReference.cache
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP_Modul_3.Form1.resources
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP_Modul_3.Properties.Resources.resources
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP Modul 3.csproj.GenerateResource.cache
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP Modul 3.csproj.CoreCompileInputs.cache
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP Modul 3.exe
+C:\Users\rakad\praktikum_kpl\modul2\project1\TP Modul 3\TP Modul 3\obj\Debug\TP Modul 3.pdb
